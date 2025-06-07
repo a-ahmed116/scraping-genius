@@ -10,14 +10,15 @@ data = {
     # Copy paste the data from the website directly without any modification to train the scraper
     # or Write a short description of your required data, for example: "clinical trials results"
     "look_for": """|
-1/22
+1/8
 FEATURED PROPERTY
-£440,000
-Roosevelt Tower, Williamsburg Plaza, Canary Wharf, E14
+£260,000
+Guide Price
+Streatham High Road, London
 Apartment
 1
 1
-Reduced on 20/03/2025
+Reduced on 03/06/2025
 Call
 Contact
 Save
@@ -72,6 +73,17 @@ Call
 Contact
 Save
 
+1/5
+£47,000,000
+One Hyde Park, Knightsbridge
+Apartment
+5
+5
+Added on 21/02/2025
+Call
+Contact
+Save
+
 |
 1/34
 £47,000,000
@@ -82,17 +94,6 @@ Town House
 8
 NEW HOME
 Added on 10/09/2024
-Call
-Contact
-Save
-
-1/5
-£47,000,000
-One Hyde Park, Knightsbridge
-Apartment
-5
-5
-Added on 21/02/2025
 Call
 Contact
 Save

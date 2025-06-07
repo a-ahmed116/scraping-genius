@@ -55,14 +55,15 @@ The scraper was trained on this sample data:
 
 ```
 |
-1/22
+1/8
 FEATURED PROPERTY
-£440,000
-Roosevelt Tower, Williamsburg Plaza, Canary Wharf, E14
+£260,000
+Guide Price
+Streatham High Road, London
 Apartment
 1
 1
-Reduced on 20/03/2025
+Reduced on 03/06/2025
 Call
 Contact
 Save
@@ -98,7 +99,9 @@ Avenue Road, St John's Wood, London, NW8, United Kingdom
 House
 10
 8
-Added on 25/...
+Added on 25/11/2024
+Call
+Con...
 ```
 
-Generated on 2025-06-07 21:16:37
+Generated on 2025-06-07 23:36:07

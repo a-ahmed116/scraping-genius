@@ -10,15 +10,15 @@ data = {
     # Copy paste the data from the website directly without any modification to train the scraper
     # or Write a short description of your required data, for example: "clinical trials results"
     "look_for": """|
-1/8
-FEATURED PROPERTY
-£260,000
+1/13
+FEATURED PROPERTY - NO CHAIN
+£350,000
 Guide Price
-Streatham High Road, London
+8 Westbury Road, Walthamstow
 Apartment
+2
 1
-1
-Reduced on 03/06/2025
+Reduced on 10/04/2025
 Call
 Contact
 Save
@@ -73,13 +73,14 @@ Call
 Contact
 Save
 
-1/5
+|
+1/16
 £47,000,000
-One Hyde Park, Knightsbridge
-Apartment
-5
-5
-Added on 21/02/2025
+Whistler Square, Chelsea Barracks, London, SW1W, United Kingdom
+House
+6
+6
+Added on 09/09/2024
 Call
 Contact
 Save
@@ -98,14 +99,13 @@ Call
 Contact
 Save
 
-|
-1/16
+1/5
 £47,000,000
-Whistler Square, Chelsea Barracks, London, SW1W, United Kingdom
-House
-6
-6
-Added on 09/09/2024
+One Hyde Park, Knightsbridge
+Apartment
+5
+5
+Added on 21/02/2025
 Call
 Contact
 Save

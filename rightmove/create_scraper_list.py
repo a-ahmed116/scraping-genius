@@ -10,15 +10,14 @@ data = {
     # Copy paste the data from the website directly without any modification to train the scraper
     # or Write a short description of your required data, for example: "clinical trials results"
     "look_for": """|
-1/13
-FEATURED PROPERTY - NO CHAIN
-£350,000
-Guide Price
-8 Westbury Road, Walthamstow
+1/22
+FEATURED PROPERTY
+£3,000,000
+L-000989, 28 Circus Road West, Battersea
 Apartment
-2
-1
-Reduced on 10/04/2025
+3
+3
+Added on 27/01/2025
 Call
 Contact
 Save
@@ -74,18 +73,6 @@ Contact
 Save
 
 |
-1/16
-£47,000,000
-Whistler Square, Chelsea Barracks, London, SW1W, United Kingdom
-House
-6
-6
-Added on 09/09/2024
-Call
-Contact
-Save
-
-|
 1/34
 £47,000,000
 Guide Price
@@ -106,6 +93,18 @@ Apartment
 5
 5
 Added on 21/02/2025
+Call
+Contact
+Save
+
+|
+1/16
+£47,000,000
+Whistler Square, Chelsea Barracks, London, SW1W, United Kingdom
+House
+6
+6
+Added on 09/09/2024
 Call
 Contact
 Save

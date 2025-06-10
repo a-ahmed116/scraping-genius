@@ -10,14 +10,14 @@ data = {
     # Copy paste the data from the website directly without any modification to train the scraper
     # or Write a short description of your required data, for example: "clinical trials results"
     "look_for": """|
-1/22
-FEATURED PROPERTY
-£3,000,000
-L-000989, 28 Circus Road West, Battersea
-Apartment
-3
-3
-Added on 27/01/2025
+1/10
+FEATURED PROPERTY - NO CHAIN
+£250,000
+Sutton Court Road, Sutton
+Flat
+1
+1
+Reduced on 12/05/2025
 Call
 Contact
 Save
@@ -72,6 +72,17 @@ Call
 Contact
 Save
 
+1/5
+£47,000,000
+One Hyde Park, Knightsbridge
+Apartment
+5
+5
+Added on 21/02/2025
+Call
+Contact
+Save
+
 |
 1/34
 £47,000,000
@@ -82,17 +93,6 @@ Town House
 8
 NEW HOME
 Added on 10/09/2024
-Call
-Contact
-Save
-
-1/5
-£47,000,000
-One Hyde Park, Knightsbridge
-Apartment
-5
-5
-Added on 21/02/2025
 Call
 Contact
 Save
@@ -124,12 +124,12 @@ Save
 1/14
 £42,000,000
 Guide Price
-Bayswater Road, London, W2
+Park Modern, Bayswater Road, London, W2
 Apartment
 5
 4
 NEW HOME
-Added yesterday
+Added on 06/06/2025
 Call
 Contact
 Save""",
